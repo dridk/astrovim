@@ -2,4 +2,4 @@
 my astrovim config
 
 
-git clone <repo> $HOME/.config/astronvim/lua/user
+git clone git@github.com:dridk/astrovim.git $HOME/.config/astronvim/lua/user
